@@ -63,7 +63,7 @@ def test(model, device, test_loader):
 
 if __name__ == "__main__":
     BATCH_SIZE=512 #大概需要2G的显存
-    EPOCHS=2 # 总共训练批次
+    EPOCHS=20 # 总共训练批次
     DEVICE = torch.device("cuda"
     if torch.cuda.is_available() else "cpu") # 让torch判断是否使用GPU，建议使用GPU环境，因为会快很多
     train_loader = torch.utils.data.DataLoader(

@@ -66,8 +66,10 @@ pip3 install torchvision
 参照[pytorch handbook开源书籍](https://github.com/zergtant/pytorch-handbook)来对pytorch基础概念进行理解和实现一个深度而学习的pytorch代码实现  
 
 对四个部分进行理解  
-1、[张量](https://github.com/xiaoming3526/Pytorch_learning/)   
-2、自动求导  
+1、[张量](https://github.com/xiaoming3526/Pytorch_learning/blob/master/Task1/1.%E5%BC%A0%E9%87%8F.md)   
+2、[自动求导](https://github.com/xiaoming3526/Pytorch_learning/blob/master/Task1/2.自动求导.md)  
+###
+后面这块的已经是后面部分的内容 之后在更新~  
 3、神经网络包nn和优化器optm  
 4、数据的加载和预处理  
 
@@ -75,5 +77,6 @@ pip3 install torchvision
 
 ### 7. 通用代码实现流程(实现一个深度学习的代码流程) 
 #### MNIST数据集手写数字识别
-详细代码见：
+详细代码见：https://github.com/xiaoming3526/Pytorch_learning/blob/master/src/mnist.py
 
+参考地址：https://github.com/zergtant/pytorch-handbook/blob/master/chapter3/3.2-mnist.ipynb
