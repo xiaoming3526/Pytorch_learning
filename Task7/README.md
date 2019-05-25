@@ -5,5 +5,6 @@
 用PyTorch完成手写数字识别
 
 代码链接：
-cpu实现版本：https://github.com/xiaoming3526/Pytorch_learning/tree/master/src/mnist1.py
+
+cpu实现版本：https://github.com/xiaoming3526/Pytorch_learning/tree/master/src/mnist1.py  
 gpu实现版本：https://github.com/xiaoming3526/Pytorch_learning/tree/master/src/mnist2.py
